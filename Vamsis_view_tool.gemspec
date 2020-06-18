@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Vamsi Yarra"]
   spec.email         = ["yarra.vamsi@gmail.com"]
 
-  spec.summary       = %q{Various view specific which I need}
+  spec.summary       = %q{Various view specific functions which I need}
   spec.description   = %q{Provides generate application for Rails application.}
   spec.homepage      = "http://vamsi.com"
   spec.license       = "MIT"
