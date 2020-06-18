@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install Vamsis_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+VamsisViewTool::Renderer.copyright "Vamsi Yarra", "All Rights Reserved"
+```
 
 ## Development
 
